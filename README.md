@@ -1,6 +1,6 @@
 # Technical Test for Medulab using React JS 💻
 
-- This project was developed with <Create React App>
+- This project was developed with < Create React App >
 
 ## How to see this in your browser:
 
